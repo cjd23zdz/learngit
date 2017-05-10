@@ -5,3 +5,4 @@ dos
 java
 c
 python
+pascal
