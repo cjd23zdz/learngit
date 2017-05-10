@@ -15,3 +15,4 @@ checkout1
 branch dev
 branch update
 a
+remote update
